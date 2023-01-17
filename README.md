@@ -19,4 +19,5 @@
 10- Other_Sales - Sales in the rest of the world (in millions) \
 11- Global_Sales - Total worldwide sales. 
 
-There are 16,598 records. 2 records were dropped due to incomplete information.
+There are 16,598 records. 2 records were dropped due to incomplete information. \
+Both ipynb and pdf have been provided.
